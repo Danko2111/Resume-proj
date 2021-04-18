@@ -1,0 +1,49 @@
+body {
+    background-color: #34568B;
+    margin:0px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    padding-bottom:25px;
+    border-left:150px solid tan;
+    border-right: 150px solid tan;
+
+}
+header{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    
+}
+h2{
+
+color:  #34568B;
+}
+
+.mainlist{
+    list-style-type: none;
+    padding:0px;
+    
+}
+.sublist{
+    
+    text-align:center;
+    list-style-position: inside;
+    padding-left: 0;
+}
+
+article {
+    background-color: white;
+    color: black;
+    padding:15px;
+    text-align: center;;
+}
+p {
+    margin: 10px
+}
+footer{
+    background-color: rgb(19, 42, 255);
+    margin-top:-10px; 
+    margin-bottom: -20px; 
+}
